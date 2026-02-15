@@ -34,6 +34,20 @@ Both approaches include:
 
 ---
 
+## 📊 CNN Method Results
+
+### Training Performance
+
+![CNN Training](results/cnn_training.png)
+
+### Sample Predictions
+
+![CNN Predictions](results/cnn_predictions.png)
+
+Validation Accuracy: **64.61%**
+
+---
+
 ## ⚙️ Tools
 
 - Python  
